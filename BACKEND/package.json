@@ -1,0 +1,10 @@
+{
+    "name": "register-login-system-backend",
+    "author": "pavani",
+    "version": "1.0.0",
+    "dependencies": {
+        "aws-sdk": "^2.1692.0",
+        "bcryptjs": "2.4.3",
+        "jsonwebtoken": "^9.0.2"
+    }
+}
